@@ -1,0 +1,65 @@
+nav{
+    width: 100%;
+    background-color: deepskyblue;
+    background: linear-gradient(60deg,whitesmoke,teal);
+    position: fixed;
+    height: 100px;
+    z-index: 1000000;
+}
+nav ul li{
+    float: left;
+    padding: 20px;
+    list-style: none;
+
+
+}
+
+nav h1{
+    padding: 20px;
+    color: white;
+    text-align: center;
+}
+#content{
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    padding-top: 100px;
+
+}
+#eyecatcher{
+    padding: 20px;
+    text-align: center;
+    background-color: deepskyblue;
+    background: linear-gradient(90deg,burlywood,teal);
+}
+#eyecatcher h2{
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+#eyecatcher img{
+    height: 400px;
+    width: auto;
+}
+#info, #about{
+    margin: 20px 20px 0 20px;
+}
+#info img{
+    height: 200px;
+    width: 300px;
+}
+#content h2{
+    color: black;
+    padding: 20px;
+    text-align: center;
+}
+#form{
+    margin-left: 300px;
+    margin-right: 300px;
+}
+
+body {
+    background: linear-gradient(90deg,deepskyblue,teal);
+}
+
+
